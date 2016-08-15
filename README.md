@@ -10,3 +10,6 @@ Uses Akka java API's
 Testcase written in java and junit.
 
 Kotlin test wont work because - http://stackoverflow.com/questions/38949474/testing-akka-actors-with-kotlin-and-akka-testkit/38953217#38953217
+
+
+ Compare it with the scala and java versions here - https://kunalkanojia.github.io/blog/java-scala-actors
